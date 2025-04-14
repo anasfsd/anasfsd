@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
-<h3 align="center">AI || Agentic AI || Machine Learning || Deep Learning || LeetCode 100+ || Web Scraper</h3>
+<h3 align="center">Section Leader@Stanford | 2025 Harvard Puzzle Day Winner | ML & Gen AI | Agentic AI | Web Scraping | DSA | 100+ LeetCode | Hackathon Enthusiast | MIT Coding Comp Rank 77/536
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasfsd&label=Profile%20views&color=0e75b6&style=flat" alt="anasfsd" /> </p>
 
