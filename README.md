@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
-<h3 align="center">Python Developer | Section Leader @Stanford CIP '25 | CS50x Puzzle Day '25 Winner @Harvard 🥇🧩 | Guest Speaker @UET | Moderator & Trainer @iCodeGuru | Software Developer | Hackathon Participant| DSA & AI Enthusiast | Workshop Facilitator| MIT Coding Comp Rank 77/536
+<h3 align="center">Python Developer | Section Leader @Stanford CIP '25 | CS50x Puzzle Day '25 Winner @Harvard 🥇🧩 | Guest Speaker @UET | Moderator & Trainer @iCodeGuru | Software Developer | Hackathon Participant| DSA & AI Enthusiast | Workshop Facilitator| MIT Coding Comp Rank 77/536 | Mentor @HackYeah 
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasfsd&label=Profile%20views&color=0e75b6&style=flat" alt="anasfsd" /> </p>
